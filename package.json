@@ -1,0 +1,14 @@
+{
+  "name": "tilt-node-example",
+  "version": "0.0.1",
+  "description": "test example for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "drubin <npm@drubin.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

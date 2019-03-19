@@ -1,0 +1,15 @@
+.idea
+.dockerignore
+.DS_Store
+.gitignore
+.git
+README.md
+ci
+*.tap
+*.log
+node_modules
+results.xml
+coverage
+helm
+Tiltfile
+*.Dockerfile
